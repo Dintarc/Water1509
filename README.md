@@ -38,13 +38,13 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ </code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ </code>
 
 ---
 
